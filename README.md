@@ -2,6 +2,9 @@
 
 This is a simple static website created as a personal project to showcase basic HTML, CSS, and JavaScript skills.
 
+### View the website:
+[Simple Color Portfolio - Live Site](https://ali-alhatami-tech.github.io/simple-color-portfolio/)
+
 ---
 
 ## Project Structure
